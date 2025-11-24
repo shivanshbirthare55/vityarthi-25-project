@@ -1,4 +1,4 @@
-Personal Expense Tracker (Based on python)
+Personal Expense Tracker
 
 This project is nothing but a simple command-line Expense Tracker built with Python. It helps us record and track their daily spending in a cool and proper systematic way.
 
@@ -68,3 +68,4 @@ In future I aim to Improve it by adding these things such as :
 License
 
 This project is made for project purpose. Feek free to use it as you like.
+
